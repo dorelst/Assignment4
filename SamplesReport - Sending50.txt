@@ -1,0 +1,25 @@
+-------------------------------------------------------
+The samples for this simulation are:
+ | DN 0 has LC = 0 | DN 1 has LC = 0 | 
+ | DN 0 has LC = 41 | DN 1 has LC = 59 | 
+ | DN 0 has LC = 67 | DN 1 has LC = 133 | 
+ | DN 0 has LC = 107 | DN 1 has LC = 193 | 
+ | DN 0 has LC = 143 | DN 1 has LC = 257 | 
+ | DN 0 has LC = 154 | DN 1 has LC = 346 | 
+ | DN 0 has LC = 187 | DN 1 has LC = 413 | 
+ | DN 0 has LC = 224 | DN 1 has LC = 476 | 
+ | DN 0 has LC = 245 | DN 1 has LC = 555 | 
+ | DN 0 has LC = 283 | DN 1 has LC = 617 | 
+ | DN 0 has LC = 310 | DN 1 has LC = 690 | 
+ | DN 0 has LC = 321 | DN 1 has LC = 779 | 
+ | DN 0 has LC = 343 | DN 1 has LC = 857 | 
+ | DN 0 has LC = 381 | DN 1 has LC = 919 | 
+ | DN 0 has LC = 426 | DN 1 has LC = 974 | 
+ | DN 0 has LC = 501 | DN 1 has LC = 1000 | 
+ | DN 0 has LC = 600 | DN 1 has LC = 1000 | 
+ | DN 0 has LC = 700 | DN 1 has LC = 1000 | 
+ | DN 0 has LC = 800 | DN 1 has LC = 1000 | 
+ | DN 0 has LC = 900 | DN 1 has LC = 1000 | 
+ | DN 0 has LC = 1000 | DN 1 has LC = 1000 | 
+ | DN 0 has LC = 1086 | DN 1 has LC = 1000 | 
+-------------------------------------------------------
